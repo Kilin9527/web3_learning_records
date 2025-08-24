@@ -16,3 +16,4 @@ Documenting the learning process of Web3.
 ## Solana
 ### Solana Basic
 - [Solana 中的共识机制](./Solana/Basic/consensus_mechanism.md)
+- [Solana 中的账户模型](./Solana/Basic/account_model.md)
