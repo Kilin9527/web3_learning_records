@@ -106,7 +106,7 @@ AMM用数学公式替代了传统做市商，其核心是一个由**流动性池
 
 ### 四、业务分析
 
-[Uniswap业务分析](./deFi_amm_uniswap.md)
+[Uniswap业务分析](./defi_amm_uniswap.md)
 
 
 
