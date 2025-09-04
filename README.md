@@ -20,9 +20,13 @@ Documenting the learning process of Web3.
 
 ## Business
 ### 1. DeFi
-#### 1.1 AMM
+#### 1.1 AMM(自动做市商)
 - [AMM - 自动做市商](./Business/defi_amm.md)
 - [AMM - 自动做市商 - Uniswap业务分析](./Business/defi_amm_uniswap.md)
 
-#### 1.2 Lending
+#### 1.2 Lending(去中心化金融借贷)
 - [Lending - 去中心化金融借贷](./Business/defi_lending.md)
+
+#### 1.2 Liquid Staking(流动性质押)
+- [Liquid Staking - 流动性质押](./Business/defi_liquid_staking.md)
+- [Liquid Staking - 流动性质押 - Lido业务分析](./Business/defi_liquid_staking_lido.md)
