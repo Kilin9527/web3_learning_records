@@ -30,3 +30,7 @@ Documenting the learning process of Web3.
 #### 1.2 Liquid Staking(流动性质押)
 - [Liquid Staking - 流动性质押](./Business/defi_liquid_staking.md)
 - [Liquid Staking - 流动性质押 - Lido业务分析](./Business/defi_liquid_staking_lido.md)
+
+### 2. Infra
+#### 2.1 Restaking(再质押协议)
+- [Restaking - 再质押协议](./Business/infra_restaking.md)
